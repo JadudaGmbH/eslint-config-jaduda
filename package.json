@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "eslint-config-jaduda",
+      "/home/roman/Development/npm"
+    ]
+  ],
+  "_from": "eslint-config-jaduda@latest",
+  "_id": "eslint-config-jaduda@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/eslint-config-jaduda",
+  "_nodeVersion": "8.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/eslint-config-jaduda_1.0.0_1525785034097_0.20736813872648097"
+  },
+  "_npmUser": {
+    "email": "roman@splicky.com",
+    "name": "jaduda"
+  },
+  "_npmVersion": "5.8.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "eslint-config-jaduda",
+    "raw": "eslint-config-jaduda",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-config-jaduda/-/eslint-config-jaduda-1.0.0.tgz",
+  "_shasum": "a9c4736c439fb8846a48947e0f3265aec4b5f5c8",
+  "_shrinkwrap": null,
+  "_spec": "eslint-config-jaduda",
+  "_where": "/home/roman/Development/npm",
+  "author": {
+    "email": "rb@jaduda.com",
+    "name": "Roman Brunnemann",
+    "url": "https://www.jaduda.com"
+  },
+  "dependencies": {},
+  "description": "Eslint base file for Jaduda projects",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 3,
+    "integrity": "sha512-VsOpngLDuEBRd4/pUj5OQqeeDW38MsmUJAxJcPAR6+v+NLqcAPR0WtKxbwp53rnVLY5oJ0QepRmjGSwdhftLeA==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa8aHKCRA9TVsSAnZWagAAn7oP/irzI3J5D5qN8mpbTCsF\ny1d3pV4OH5eW/4VoI4pVPDUldbYDfVeaAydRgJZPmrkE+As4u/bTdFmGVKsk\nAsJ/iIEPDMfw8cspGPFG834dkjZ+Jfx7/GZ4E4E2EnUJl3719SXXo2s84umn\nDPpmZaZfh2Oc/R8EIUCp9WYQ8I/nslzSGkLtVJmXKKYKcjlYVtU5/CHqGqeT\npRJZi7J3CkQqVAOfyAHV3PaPAozWVBLu6KTnC84Ovf9NyLcUu40pe4oOH6JA\nZUCeYeFXLEXzrp+tzBTKtx3LU8qKMaMg3EAbfIaORmAKv1fqzv/6Pk8zi9rd\n5jjjY7p1xj/AuYwmLMK1t+rm8XSyq/qzJ2QUry+hRMusSZLiUJSlCfJoCuxo\nXFvdSgSAqHm+uV3dqPdkffMJ/Wf3q3v+yulXIwA8iToFQn6O3TwZnBSC1X9i\n/J7S0cSbBBnjR/IfnkOlFUzhjs6WOQChL3yspiopsardqL40CdDm75j4qIP/\n8dPEUg4kAQYkvqBhbc5sR+rQGSzzgizsyY36RpG8tMq926rGyOa0UtfWvpyu\njA3kHTm7Vgc3AprL5S/2vCZmcZR57JWnXWnXRA2y95P0igvqKbzZMdUXgCTN\nE7U/ciiSesi9VJAPbyz0/uniSrFqQ5+k172XmDrjYzE9/iC0ZEnLn14lzUtn\nTZoh\r\n=wsUi\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "a9c4736c439fb8846a48947e0f3265aec4b5f5c8",
+    "tarball": "https://registry.npmjs.org/eslint-config-jaduda/-/eslint-config-jaduda-1.0.0.tgz",
+    "unpackedSize": 969
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jaduda",
+      "email": "roman@splicky.com"
+    }
+  ],
+  "name": "eslint-config-jaduda",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
